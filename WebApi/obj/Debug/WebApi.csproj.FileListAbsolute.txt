@@ -1,0 +1,18 @@
+C:\Users\tpotti134\AppData\Local\Temporary Projects\WebApi\bin\Debug\WebApi.dll
+C:\Users\tpotti134\AppData\Local\Temporary Projects\WebApi\bin\Debug\WebApi.pdb
+C:\Users\tpotti134\AppData\Local\Temporary Projects\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\tpotti134\AppData\Local\Temporary Projects\WebApi\obj\Debug\WebApi.dll
+C:\Users\tpotti134\AppData\Local\Temporary Projects\WebApi\obj\Debug\WebApi.pdb
+C:\Projects\WebApi\WebApi\bin\Debug\WebApi.dll.config
+C:\Projects\WebApi\WebApi\bin\Debug\WebApi.dll
+C:\Projects\WebApi\WebApi\bin\Debug\WebApi.pdb
+C:\Projects\WebApi\WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WebApi\WebApi\bin\Debug\nunit.framework.dll
+C:\Projects\WebApi\WebApi\bin\Debug\RestSharp.dll
+C:\Projects\WebApi\WebApi\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\WebApi\WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WebApi\WebApi\bin\Debug\nunit.framework.xml
+C:\Projects\WebApi\WebApi\bin\Debug\RestSharp.xml
+C:\Projects\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Projects\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Projects\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
